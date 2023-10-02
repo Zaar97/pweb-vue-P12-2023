@@ -1,22 +1,17 @@
-# Anggota Kelompok
-- Zahra
-- Sighra
-- Vian
-
+# PRAKTIKUM MODUL 1 DAN 2 PEMROGRAMMAN WEB - KELOMPOK P12
+*Anggota Kelompok:*
+1. Azzahra Sekar Rahmadina - 5027221035
+2. Muhammad Rifqi Oktaviansyah - 5027221067
+3. Sighra Attariq Sumere Jati - 5027221068
+   
 ## Project Setup
-
-```sh
+sh
 npm install
-```
 
 ### Compile and Hot-Reload for Development
-
-```sh
+sh
 npm run dev
-```
 
 ### Compile and Minify for Production
-
-```sh
+sh
 npm run build
-```
