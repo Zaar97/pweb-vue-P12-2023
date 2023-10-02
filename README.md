@@ -1,4 +1,7 @@
 # Anggota Kelompok
+- Zahra
+- Sighra
+- Vian
 
 ## Project Setup
 
